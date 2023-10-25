@@ -1,5 +1,3 @@
 # nosyarg.github.io
 
-Content for the website
-
-More Content
+This repo contains the personal website of A. Grayson York.
