@@ -1,4 +1,18 @@
+body {
+margin: 0;
+background-color: #777777;
+}
 img{
 margin: 5px;
 float:left;
+}
+.taskbar{
+padding-top:10px;
+padding-bottom:10px;
+background-color: #333333;
+}
+.taskbaritem{
+color: white;
+margin-left:20px;
+margin-right:20px;
 }
