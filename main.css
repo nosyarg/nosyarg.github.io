@@ -42,3 +42,12 @@ margin-left:10px;
 p{
 margin-left:10px;
 }
+.taskbarpic{
+height:50px;
+width:auto;
+padding:0px;
+margin-left:0px;
+margin-right:0px;
+position:relative;
+top:-20px;
+}
