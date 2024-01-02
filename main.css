@@ -12,7 +12,7 @@ padding-bottom:10px;
 background-color: #444444;
 }
 .taskbaritem{
-/*color: white;*/
+color: white !important;
 margin-left:20px;
 margin-right:20px;
 }
